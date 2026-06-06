@@ -1,0 +1,70 @@
+{
+  "brand": "InterconnectHub",
+  "tagline": "3,000+ utility interconnection rules, all in one place",
+  "hero_headline": "Stuck on utility interconnection rules?",
+  "hero_sub": "Aggregated interconnection rules for 3,000+ US utilities. Never again wonder about capacity limits, net metering policies, timelines, costs, and approval cycles.",
+  "pains": [
+    "Different rules for every utility—hunting through PDFs and policy docs wastes hours",
+    "Capacity limits and net metering policies change constantly. Manual tracking means missing updates",
+    "No way to quickly compare costs, timelines, and feasibility across utilities before quoting a job"
+  ],
+  "features": [
+    {
+      "title": "3,000+ utility database",
+      "desc": "All major US utility interconnection rules in one place—no more digging through websites"
+    },
+    {
+      "title": "Real-time policy updates",
+      "desc": "Auto-alerts for changes in net metering, capacity, and fees"
+    },
+    {
+      "title": "Side-by-side comparison",
+      "desc": "Compare rules and costs across utilities instantly"
+    },
+    {
+      "title": "Installation workflow guide",
+      "desc": "Step-by-step: required forms, costs, and approval timelines"
+    }
+  ],
+  "how": [
+    {
+      "step": "Enter your zip code",
+      "desc": "Get your utility's interconnection rules instantly"
+    },
+    {
+      "step": "Review the full checklist",
+      "desc": "Capacity limits, net metering, fees, and approval process at a glance"
+    },
+    {
+      "step": "Make your bid decision",
+      "desc": "Compare rules and costs to decide whether to take the job and set your price"
+    }
+  ],
+  "proof": "Built with solar associations and equipment makers. Currently in beta with installers validating strong product demand",
+  "cta": "Join the beta",
+  "cta_sub": "Completely free. Help us refine the product. Get permanent discounts during beta.",
+  "faq": [
+    {
+      "q": "Where does this data come from?",
+      "a": "We compile official state utility policy documents, rate schedules, and net metering rules—then manually verify for accuracy"
+    },
+    {
+      "q": "How often are rules updated?",
+      "a": "Critical changes get pushed in real-time. Full database audit monthly to keep everything current"
+    },
+    {
+      "q": "Can you integrate with my quoting system?",
+      "a": "Yes—API and Zapier integration available. Plug into your workflow without changing your tools"
+    }
+  ],
+  "seo_pages": [
+    "California PG&E and SCE interconnection rules 2024: capacity limits and net metering",
+    "Texas utility interconnection process and cost comparison: ERCOT regional guide",
+    "Florida FPL Duke solar storage interconnection requirements and approval timelines",
+    "New York net metering policy 2024 updates: what installers need to know",
+    "Fast-track interconnection approval for small solar installers: 14-state rule guide",
+    "Compare capacity limits and system costs across utilities: pre-bid assessment"
+  ],
+  "disclaimer": "This platform is an information reference tool, not official policy interpretation. Always consult your state utility's official resources and a licensed electrical engineer before applying any rules. When in doubt, defer to official documents and professional guidance.",
+  "lang": "en"
+}
